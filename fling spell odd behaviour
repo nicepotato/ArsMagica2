@@ -1,0 +1,3 @@
+I was planning on flying using a self-fling spell in the newest version of am2. When I used it and flew around a bit in the world and then carefully landed, the slight drop of 4 blocks insta-killed me.
+I think this is a problem with how the fall damage is caculated, wich doesn't seem to include the parts fling actually stopped you from falling.
+Any hope this can be fixed/altered?
